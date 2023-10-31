@@ -1,0 +1,30 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h5, h6 {
+    font-weight: 300;
+}
+
+.precio {
+    height: 20px;
+    padding-top: 10px;
+}
+
+.descuento {
+    padding-left: 15px;
+    font-size: 24px;
+}
+
+.features, .pricing {
+    color: #A1D4A7;
+}
+
+.features:hover, .pricing:hover {
+    color: #A1D4A7;
+}
+
+.disabled-color {
+    color: #fff;
+    
+}
